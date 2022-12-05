@@ -102,7 +102,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Wheelchair, Black_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155320a1f27b24a40927054e59077bec
+      internalID: 577006919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 196
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94a76f0f921797428d825d1a92b4f5e
+      internalID: -1169769700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 196
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1580da2c1d7d24588d704247e08c13
+      internalID: -1682922053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 128
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ede9711344b94e4b8a2791841e1ff43
+      internalID: 2119420930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d355fb2712aca41bd1af72879ae405
+      internalID: 1326200710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe768fb112563e4a8aead353b5c31cf
+      internalID: 469408930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d40be207f29c546ad88dd51e548e34
+      internalID: -564715383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0295bef5e37a4889a55e365f1868a
+      internalID: -171146346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa81191345bf4ea4e95ea4bffed0b22f
+      internalID: 488666046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheelchair, Black_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f676fa5a0da53043bd3d82639c54654
+      internalID: 255523396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -113,7 +323,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wheelchair, Black_3: 2119420930
+      Wheelchair, Black_4: 1326200710
+      Wheelchair, Black_1: -1169769700
+      Wheelchair, Black_6: -564715383
+      Wheelchair, Black_9: 255523396
+      Wheelchair, Black_8: 488666046
+      Wheelchair, Black_5: 469408930
+      Wheelchair, Black_0: 577006919
+      Wheelchair, Black_2: -1682922053
+      Wheelchair, Black_7: -171146346
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
